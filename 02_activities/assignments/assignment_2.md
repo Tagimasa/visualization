@@ -26,8 +26,9 @@ an example of bad visuialization https://public.tableau.com/app/profile/iaroslav
       ```
     - How could this data visualization have been improved?  
       ```
-     For Good example:
-     What should be improved is that there is no campaign name in the headline and there are no scales with absolute numbers - probably a document for use within the company and users know what it is about, but it is still worth including this information. 
+      
+For Good example:
+     What should be improved is that there is no campaign name in the headline and there are no scales with absolute numbers - probably a document for use within the company and users know what it is about, but it is still worth including this information.
 The Diversity by gender and race graph is not entirely clear without numbers – it is necessary to add this information.
  It is also worth adding data on the dynamics for a longer period, because only 2 years are included, and it is not entirely clear how important or critical the changes are in the long term.
 
