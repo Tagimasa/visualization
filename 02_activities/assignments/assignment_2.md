@@ -13,6 +13,11 @@
       Your answer...
 an example of bad visuialization https://excelcharts.com/wp-content/uploads/2011/06/Space_Race_1957-1975_black_text.png
 
+A great advantage of this visualization is that everything is presented in a very clear and simple manner, despite the fact that a large amount of information is analyzed - more than 12 parameters.
+ Six key parameters are placed at the top and are easy to read - the font is large enough. The color scheme is contrast, but not irritating - easy to perceive.
+ The names of key parameters in relation to the previous period are indicated next to each other and are highlighted in the green or red font color, depending on the growth or decline -that is quite easy to read and useful for understanding. 
+ An interactive map has been added to the set of graphs, in which you can select a particular region and see the corresponding parameters for this region or a particular city – that is very convenient to use, and can expand a lot of additional information. 
+
 an example of bad visuialization https://public.tableau.com/app/profile/iaroslava/viz/HRDashboard_17194096809750/OVERVIEW
 
 
