@@ -10,7 +10,25 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+    
+
+an example of good visuialization https://public.tableau.com/app/profile/iaroslava/viz/HRDashboard_17194096809750/OVERVIEW
+
+A great advantage of this visualization is that everything is presented in a very clear and simple manner, despite the fact that a large amount of information is analyzed - more than 12 parameters.
+- Six key parameters are placed at the top and are easy to read - the font is large enough.
+- The color scheme is contrast, but not irritating - easy to perceive.
+- The names of key parameters in relation to the previous period are indicated next to each other and are highlighted in the green or red font color, depending on the growth or decline -that is quite easy to read and useful for understanding.
+- An interactive map has been added to the set of graphs, in which you can select a particular region and see the corresponding parameters for this region or a particular city – that is very convenient to use, and can expand a lot of additional information. 
+
+an example of bad visuialization https://excelcharts.com/wp-content/uploads/2011/06/Space_Race_1957-1975_black_text.png
+
+What's wrong or bad on this graph: 
+- The author tried to squeeze 63 events into a very limited space, as a result, it is impossible to read anything - the font is very small, the text is written very densely, the words overlap each other. 
+-There is no Y scale – it is not clear what the changes in the graph mean 
+- The captions on the graph itself are very small and made in different fonts – it is impossible to read anything and everything is very incomprehensible. 
+- Under the X scale, there are additional timelines with the presidents' names (abbreviations and the time of their rule) – if a reader is not very versed in politics and history, these abbreviations are not clear to him at all. 
+- There are numbers on the graph itself - it is not clear at all what they mean. 
+
 
 
 
@@ -21,10 +39,18 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      
+What can be improved for Good example:
+     What should be improved is that there is no campaign name in the headline and there are no scales with absolute numbers - probably a document for use within the company and users know what it is about, but it is still worth including this information.
+The Diversity by gender and race graph is not entirely clear without numbers – it is necessary to add this information.
+ It is also worth adding data on the dynamics for a longer period, because only 2 years are included, and it is not entirely clear how important or critical the changes are in the long term.
 
-
-
+ What can be improved for Bad example: 
+- leave fewer events 
+- divide the graph into several shorter periods and place them sequentially vertically – A – B – C.
+ - Use the same font size and design in captions
+ - Add basic reference information in a separate block below the chart 
+- Specify the values of the Y-axis Use fewer captions on the chart itself
 
 
 
