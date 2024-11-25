@@ -12,7 +12,7 @@
       ```
     
 
-an example of bad visuialization https://public.tableau.com/app/profile/iaroslava/viz/HRDashboard_17194096809750/OVERVIEW
+an example of good visuialization https://public.tableau.com/app/profile/iaroslava/viz/HRDashboard_17194096809750/OVERVIEW
 
 A great advantage of this visualization is that everything is presented in a very clear and simple manner, despite the fact that a large amount of information is analyzed - more than 12 parameters.
 - Six key parameters are placed at the top and are easy to read - the font is large enough.
