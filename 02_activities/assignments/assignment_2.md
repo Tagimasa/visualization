@@ -13,6 +13,14 @@
     
 an example of bad visuialization https://excelcharts.com/wp-content/uploads/2011/06/Space_Race_1957-1975_black_text.png
 
+What's wrong or bad on this graph: 
+- The author tried to squeeze 63 events into a very limited space, as a result, it is impossible to read anything - the font is very small, the text is written very densely, the words overlap each other. 
+-There is no Y scale – it is not clear what the changes in the graph mean 
+- The captions on the graph itself are very small and made in different fonts – it is impossible to read anything and everything is very incomprehensible. 
+- Under the X scale, there are additional timelines with the presidents' names (abbreviations and the time of their rule) – if a reader is not very versed in politics and history, these abbreviations are not clear to him at all. 
+- There are numbers on the graph itself - it is not clear at all what they mean. 
+
+
 A great advantage of this visualization is that everything is presented in a very clear and simple manner, despite the fact that a large amount of information is analyzed - more than 12 parameters.
  Six key parameters are placed at the top and are easy to read - the font is large enough. The color scheme is contrast, but not irritating - easy to perceive.
  The names of key parameters in relation to the previous period are indicated next to each other and are highlighted in the green or red font color, depending on the growth or decline -that is quite easy to read and useful for understanding. 
