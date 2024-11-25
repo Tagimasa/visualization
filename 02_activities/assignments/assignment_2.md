@@ -11,6 +11,15 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
     
+
+an example of bad visuialization https://public.tableau.com/app/profile/iaroslava/viz/HRDashboard_17194096809750/OVERVIEW
+
+A great advantage of this visualization is that everything is presented in a very clear and simple manner, despite the fact that a large amount of information is analyzed - more than 12 parameters.
+- Six key parameters are placed at the top and are easy to read - the font is large enough.
+- The color scheme is contrast, but not irritating - easy to perceive.
+- The names of key parameters in relation to the previous period are indicated next to each other and are highlighted in the green or red font color, depending on the growth or decline -that is quite easy to read and useful for understanding.
+- An interactive map has been added to the set of graphs, in which you can select a particular region and see the corresponding parameters for this region or a particular city – that is very convenient to use, and can expand a lot of additional information. 
+
 an example of bad visuialization https://excelcharts.com/wp-content/uploads/2011/06/Space_Race_1957-1975_black_text.png
 
 What's wrong or bad on this graph: 
@@ -21,12 +30,8 @@ What's wrong or bad on this graph:
 - There are numbers on the graph itself - it is not clear at all what they mean. 
 
 
-A great advantage of this visualization is that everything is presented in a very clear and simple manner, despite the fact that a large amount of information is analyzed - more than 12 parameters.
- Six key parameters are placed at the top and are easy to read - the font is large enough. The color scheme is contrast, but not irritating - easy to perceive.
- The names of key parameters in relation to the previous period are indicated next to each other and are highlighted in the green or red font color, depending on the growth or decline -that is quite easy to read and useful for understanding. 
- An interactive map has been added to the set of graphs, in which you can select a particular region and see the corresponding parameters for this region or a particular city – that is very convenient to use, and can expand a lot of additional information. 
 
-an example of bad visuialization https://public.tableau.com/app/profile/iaroslava/viz/HRDashboard_17194096809750/OVERVIEW
+
 
 
 
@@ -35,14 +40,17 @@ an example of bad visuialization https://public.tableau.com/app/profile/iaroslav
     - How could this data visualization have been improved?  
       ```
       
-For Good example:
+What can be improved for Good example:
      What should be improved is that there is no campaign name in the headline and there are no scales with absolute numbers - probably a document for use within the company and users know what it is about, but it is still worth including this information.
 The Diversity by gender and race graph is not entirely clear without numbers – it is necessary to add this information.
  It is also worth adding data on the dynamics for a longer period, because only 2 years are included, and it is not entirely clear how important or critical the changes are in the long term.
 
-
-
-
+ What can be improved for Bad example: 
+- leave fewer events 
+- divide the graph into several shorter periods and place them sequentially vertically – A – B – C.
+ - Use the same font size and design in captions
+ - Add basic reference information in a separate block below the chart 
+- Specify the values of the Y-axis Use fewer captions on the chart itself
 
 
 
