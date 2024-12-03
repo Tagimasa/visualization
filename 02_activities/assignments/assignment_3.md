@@ -8,13 +8,41 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
         Your answer...
+Principles for Accessible Design
+• Make information clear, concise and easy to use
+• Present information in predictable, barrier-free ways
+• Provide barrier-free ways for people to interact 
 
+An example of good visualization  https://public.tableau.com/app/profile/iaroslava/viz/HRDashboard_17194096809750/OVERVIEW
 
+In this example, we can see that the data is presented in a clear, understandable, and readable way. Colors and contrast do not cause irritation. Dark background as a solution allows you to remember information better.
+The set of information is quite complete and diverse – the information is transparent and accessible – fair data processing practices aim to provide equal opportunities for all users, regardless of their origin, location or circumstances.
+As for the disadvantages, the full source of data is not visible and there are no scales, which can confuse the reader and violate the principle of reproducible.
+
+An example of bad visuialization https://excelcharts.com/wp-content/uploads/2011/06/Space_Race_1957-1975_black_text.png
+
+In this example, the source of information is not indicated - it is not clear how true and reliable and transparent this data is - the principle of equitable is violated. 
+There is no caption to the scale y –it is impossible to reproduce the graph, the principle of reproducible is violated. In general, the information is unreadable, the color scheme is chaotic and irritating. 
+The font is small and of different sizes. Lack of context information with basic explanations - the principle of accessibility is violated.
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
         Your answer...
+        
+What can be improved for Good example
+ - add the company name
+ - add the source of information
+ - add basic reference information in a separate block below the chart - purpose, users, references
+ - Specify the values of the axis
+
+What can be improved for Bad example:
+ - add the source of information
+ - add basic reference information in a separate block below the chart
+ - Use the same font size and design in captions
+ - Specify the values of the Y-axis Use fewer captions on the chart itself
+ - leave fewer events
+ - divide the graph into several shorter periods and place them sequentially vertically – A – B – C.
 
 
 
