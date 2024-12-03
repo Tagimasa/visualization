@@ -8,8 +8,15 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
         Your answer...
-
-
+Principles for Accessible Design
+• The Government of Canada provides four broad goals for what we should try to accomplish with accessible design:
+• Make information clear, concise and easy to use
+• Present information in predictable, barrier-free ways
+• Provide barrier-free ways for people to interact with you
+an example of good visualization  https://public.tableau.com/app/profile/iaroslava/viz/HRDashboard_17194096809750/OVERVIEW
+In this example, we can see that the data is presented in a clear, understandable, and readable way. Colors and contrast do not cause irritation. Dark background as a solution allows you to remember information better.
+The set of information is quite complete and diverse – the information is transparent and accessible – fair data processing practices aim to provide equal opportunities for all users, regardless of their origin, location or circumstances.
+As for the disadvantages, the full source of data is not visible and there are no scales, which can confuse the reader and violate the principle of reproducible.
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
