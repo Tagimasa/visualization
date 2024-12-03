@@ -28,6 +28,20 @@ In this example, the source of information is not indicated - it is not clear ho
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
         Your answer...
+        
+What can be improved for Good example
+add the company name
+add the source of information
+add basic reference information in a separate block below the chart - purpose, users, references
+Specify the values of the axis
+
+What can be improved for Bad example:
+add the source of information
+add basic reference information in a separate block below the chart
+Use the same font size and design in captions
+Specify the values of the Y-axis Use fewer captions on the chart itself
+leave fewer events
+divide the graph into several shorter periods and place them sequentially vertically – A – B – C.
 
 
 
