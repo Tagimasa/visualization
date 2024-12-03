@@ -1,3 +1,5 @@
+![Yearly ferry tickets sales 2015-2024](https://github.com/user-attachments/assets/ac98960d-8e58-44bc-9fbc-12c37e7eaf47)
+![Monthly ticket sasles 2023](https://github.com/user-attachments/assets/162a22e2-22fe-4afd-8a3a-26caf519b17f)
 # Data Visualization
 
 ## Assignment 4: Final Project
