@@ -9,29 +9,42 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.
 
-- Ive choosen data from https://open.toronto.ca/dataset/toronto-island-ferry-ticket-counts/ -  Toronto Island Ferry Ticket Counts
-- Ferries to Toronto Island Park operate year-round out of Jack Layton Ferry Terminal. Ferries carry passengers to and from Centre Island, Hanlan’s Point and Ward’s Island. There are limited amenities during the off-season.
+
+Ive choosen data from https://open.toronto.ca/dataset/toronto-island-ferry-ticket-counts/ -  Toronto Island Ferry Ticket Counts
+
+Ferries to Toronto Island Park operate year-round out of Jack Layton Ferry Terminal. Ferries carry passengers to and from Centre Island, Hanlan’s Point and Ward’s Island. There are limited amenities during the off-season.
 
 This dataset provides near real-time information on ferry ticket sales and ticket redemptions. The counts are provided in 15 minute intervals and are updated hourly. They encompass all product types and include both online and POS-kiosk sales.
-- For each visualization, describe and justify: 
+
+- For each visualization, describe and justify:
+- 
     > What software did you use to create your data visualization?
 Python, Matplotlib, Pandas
+    > 
     > Who is your intended audience? 
     City administration and port toronto managers who are responsible for port toronto human resources
+    > 
     > What information or message are you trying to convey with your visualization? 
     Year by Year and monthly passengers traffic to Toronto Islands
+    > 
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
    Substantive - I was focused on the functionality and usability of the design. The main concern is to  deliver  information inthe simple, clear and easy understandable manner.
+    > 
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
     The source of the data is open and acceble for everyone. Charts rpovide all scales and figures for reproduction
+    > 
     > How did you ensure that your data visualization is accessible?  
     Its made in simple and clear manner.
+    > 
     > Who are the individuals and communities who might be impacted by your visualization?  
     People and visitors of Toronto, port Toronto stuff.
+    > 
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    Basic seasonal periods during the year and development of the passengers on the yearly basis -  according to financial periods of the city admenistration
+    Basic seasonal periods during the year and development of the passengers on the yearly basis -  according to financial periods of the city administration
+    > 
     > What ‘underwater labour’ contributed to your final data visualization product?
 staff of statistic department of the port of Toronto or public transportation dpt of Toronto
+    > 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
  
